@@ -82,9 +82,10 @@ Once you've obtained the keys, store them in the `.env` file as instructed in St
 
 ---
 
-### Step 6: Generate the `requirements.txt` File
+### Step 6: Install the `requirements.txt` File
 
-If `requirements.txt` does not exist yet, you can generate it manually or by running the following command inside your virtual environment:
+Run the following command inside your virtual environment:
 
 ```bash
-pip freeze > requirements.txt
+pip install -r requirements.txt
+```
