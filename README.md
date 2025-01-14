@@ -19,6 +19,7 @@ Start by cloning this repository to your local machine. In your terminal, run:
 ```bash
 git clone <repository-url>
 cd <repository-folder>
+```
 
 ### Step 2: Set Up a Virtual Environment (Optional but Recommended)
 
@@ -60,6 +61,7 @@ Once your virtual environment is activated, you can install all the necessary de
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### Step 4: Set Up the `.env` File
 
@@ -68,7 +70,7 @@ To use the Gemini API and Langsmith API, you'll need to create a `.env` file to 
 ```bash
 GEMINI_API_KEY=<your-gemini-api-key>
 LANGSMITH_API_KEY=<your-langsmith-api-key>
-
+```
 
 ### Step 5: Obtain API Keys
 
