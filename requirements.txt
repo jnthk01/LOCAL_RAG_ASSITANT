@@ -1,0 +1,10 @@
+ollama
+langchain
+langchain-community
+pypdf
+langchain-ollama
+chromadb
+streamlit
+google-generativeai
+langchain-google-genai
+langchain-chroma
